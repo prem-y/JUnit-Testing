@@ -9,8 +9,8 @@
 - Execute JUnit tests.
 
 ## Follow Step by Step Implementation:
-+ [Banking System](https://github.com/prem-y/JUnit-Testing/blob/main/Guide/BankingSystem.md)
-+ [Healthcare Management System](https://github.com/prem-y/JUnit-Testing/blob/main/Guide/HealthcareManagementSystem.md)
-+ [Library Management System](https://github.com/prem-y/JUnit-Testing/blob/main/Guide/LibraryManagementSystem.md)
++ [Banking System](Guide/BankingSystem.md)
++ [Healthcare Management System](Guide/HealthcareManagementSystem.md)
++ [Library Management System](Guide/LibraryManagementSystem.md)
 + [Online Voting System](Guide/OnlineVotingSystem.md)
 + [Weather Forecasting Application](Guide/WeatherForecastingApplication.md)
