@@ -336,10 +336,6 @@ class VotingServiceTest {
 ```
 
 ### Step 4: Run Your Tests
-
-1.
-
- **Run the tests**:
    - Right-click on the `VoterTest` class.
    - Select `Run As -> JUnit Test`.
    - Repeat the same steps for `CandidateTest` and `VotingServiceTest` classes.
